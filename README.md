@@ -6,7 +6,7 @@ I am very interested in learning and gaining more experience in both frontend an
 
 - 🔭 I’m currently working on this profile page.
 - 🌱 I’m currently learning how to use Flutter and Android Studio.
-- - ⚡ Fun fact: 🤖
+- ⚡ Fun fact: 🤖
 
 <!--
 **Found555/Found555** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
