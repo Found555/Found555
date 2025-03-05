@@ -1,4 +1,12 @@
-## Hi there 👋
+## Hi there 👋, Welcome
+
+Hello my name is Resshantan and I am almost done with my Computer Science degree from Management and Science University (MSU), doing my internship now.
+
+I am very interested in learning and gaining more experience in both frontend and backend software development. Currently I am learning how to use Flutter and Android Studio.
+
+- 🔭 I’m currently working on this profile page.
+- 🌱 I’m currently learning how to use Flutter and Android Studio.
+- - ⚡ Fun fact: 🤖
 
 <!--
 **Found555/Found555** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
